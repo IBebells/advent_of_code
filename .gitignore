@@ -1,0 +1,7 @@
+# files
+key
+__pycache__
+
+# tests
+test.py
+tests.ipynb
