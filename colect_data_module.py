@@ -6,8 +6,8 @@ import time
 
 def sing_in_github (driver: webdriver):
     # Credentials
-    email = 'isabelpriscilarebello@gmail.com'
-    password = 'Munita1973'
+    email = 'xxxxxxxx@xxxxx.com'
+    password = 'XXXX'
     
     # Acess autentication website
     driver.get('https://adventofcode.com/auth/github')
